@@ -1,33 +1,31 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #1a1a1a; /* Dark background */
-    color: #f4f4f4; /* Light text */
+    background-color: #222; /* Dark background */
+    color: #eee; /* Light text */
     padding: 20px;
 }
 
 h1 {
-    color: #ffffff; /* White text */
+    color: #fff; /* White text */
 }
 
 p {
-    color: #e0e0e0; /* Slightly lighter gray for readability */
+    color: #ddd; /* Soft light gray for readability */
 }
 
 img {
-    display: block;
-    margin: 20px auto;
     width: 300px;
     height: auto;
+    display: block;
+    margin: 20px auto;
 }
 
 a {
-    color: #00aaff; /* Professional blue for links */
+    color: #1e90ff; /* Nice blue for links */
     text-decoration: none;
 }
 
 a:hover {
     text-decoration: underline;
-    color: #66ccff; /* Lighter blue on hover */
 }
-
